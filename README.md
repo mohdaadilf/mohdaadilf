@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on KannurVaccineTracker
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: @faizy15 on instagram
+
 [![Aadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdaadilf&show_icons=true&theme=midnight-purple&show_icons=true&icon_color=ADD8E6&title_color=ADD8E6&hide=contribs,issues&border_radius=15&bg_color=DEG,0d324d,2f4353)](https://github.com/mohdaadilf)
 
 <!--
