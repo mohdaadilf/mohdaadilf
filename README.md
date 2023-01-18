@@ -5,7 +5,7 @@
 - 📫 How to reach me: @faizy15 on instagram
 
 
-[![Aadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdaadilf)](https://github.com/mohd/github-readme-stats)
+[![Aadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdaadilf&show_icons=true&theme=swift)](https://github.com/mohd/github-readme-stats)
 
 <!--
 **mohdaadilf/mohdaadilf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
