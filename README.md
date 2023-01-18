@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on KannurVaccineTracker
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently studying MSc in InfoSec!
+- 🌱 Currently learning Python whenever possible
 - 📫 How to reach me: @faizy15 on instagram
 
 
-[![Aadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdaadilf&show_icons=true&theme=swift)](https://github.com/mohd/github-readme-stats)
+[![Aadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdaadilf&show_icons=true&bg_color=DEG,F5FAFE,CBE5FB,A1CFF8,698DAD)](https://github.com/mohd/github-readme-stats)
 
 <!--
 **mohdaadilf/mohdaadilf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
