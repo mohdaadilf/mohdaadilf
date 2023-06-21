@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying MSc in InfoSec!
+- 🔭 MSc in InfoSec graduate!
 - 🌱 Currently learning Python whenever possible
 - 📫 How to reach me: @faizy15 on instagram
 
